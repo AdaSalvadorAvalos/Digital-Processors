@@ -1,0 +1,42 @@
+[submodule "P3B-Bluetooth-Serial-ESP32"]
+	path = P3B-Bluetooth-Serial-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P3B-Bluetooth-Serial-ESP32.git
+[submodule "P3A-WiFi-WebServer-ESP32"]
+	path = P3A-WiFi-WebServer-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P3A-WiFi-WebServer-ESP32.git
+[submodule "P2B-Timer-Interrupt-ESP32"]
+	path = P2B-Timer-Interrupt-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P2B-Timer-Interrupt-ESP32.git
+[submodule "P2A-Button-Interrupt-ESP32"]
+	path = P2A-Button-Interrupt-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P2A-Button-Interrupt-ESP32.git
+[submodule "P3E-WebServer-2LEDs-ESP32"]
+	path = P3E-WebServer-2LEDs-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P3E-WebServer-2LEDs-ESP32.git
+[submodule "P1-LED-Blink-ESP32"]
+	path = P1-LED-Blink-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P1-LED-Blink-ESP32.git
+[submodule "P8-SerialCommunication-ESP32"]
+	path = P8-SerialCommunication-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P8-SerialCommunication-ESP32.git
+[submodule "P7A-I2S-Audio-ESP32"]
+	path = P7A-I2S-Audio-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P7A-I2S-Audio-ESP32.git
+[submodule "P7B-AudioWiFi-ESP32"]
+	path = P7B-AudioWiFi-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P7B-AudioWiFi-ESP32.git
+[submodule "P4A-Multicore-Tasks-ESP32"]
+	path = P4A-Multicore-Tasks-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P4A-Multicore-Tasks-ESP32.git
+[submodule "P5-I2C-Temp-Humidity-ESP32"]
+	path = P5-I2C-Temp-Humidity-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P5-I2C-Temp-Humidity-ESP32.git
+[submodule "P6-RFID-Reader-ESP32"]
+	path = P6-RFID-Reader-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P6-RFID-Reader-ESP32.git
+[submodule "P4B-LED-Task-Sync-ESP32"]
+	path = P4B-LED-Task-Sync-ESP32
+	url = https://github.com/AdaSalvadorAvalos/P4B-LED-Task-Sync-ESP32.git
+[submodule "PF-TempControlledAudio-ESP32"]
+	path = PF-TempControlledAudio-ESP32
+	url = https://github.com/AdaSalvadorAvalos/PF-TempControlledAudio-ESP32.git
