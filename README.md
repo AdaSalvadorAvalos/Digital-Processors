@@ -1,4 +1,4 @@
-#Digital Processors Practices – Master Repository
+# Digital Processors Practices – Master Repository
 
 Welcome to the **Digital Processors Practices Master Repository**! This repository serves as a central hub for all the submodules containing individual practice exercises for the Digital Processors course using the ESP32.
 
@@ -221,7 +221,7 @@ Each submodule contains a specific practice with detailed **English** and **Span
   - **Arduino Serial documentation:** [Arduino Serial](https://www.arduino.cc/reference/en/language/functions/communication/serial/)
 
 
-# Final Project: Music Through Temperature
+### Final Project: Music Through Temperature
 
 - **Description:** A system using an ESP32 to control music playback based on ambient temperature. Users can select radio stations, SD card audio files, or adjust volume through an OLED menu interface and push buttons. Temperature is measured with the HTU21D sensor.
 - **Developers:** [Milene Granda](https://github.com/milenegranda) & [Ada Salvador Avalos](https://github.com/AdaSalvadorAvalos)
